@@ -1,19 +1,8 @@
 {
   "name": "graphql",
   "version": "1.0.0",
-  "description": "base concepts of graphql",
-  "main": "src/index.js",
+  "main": "index.js",
   "repository": "https://github.com/Pedroabreu155/graphql.git",
   "author": "Pedro Abreu <pedroliveirabreu@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "dev": "npx nodemon src/index.js"
-  },
-  "dependencies": {
-    "apollo-server": "^3.4.0",
-    "graphql": "^15.6.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.14"
-  }
+  "license": "MIT"
 }
