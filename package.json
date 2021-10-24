@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/Pedroabreu155/graphql.git",
   "author": "Pedro Abreu <pedroliveirabreu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon --exec babel-node src/index.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/node": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "nodemon": "^2.0.14"
+  }
 }
