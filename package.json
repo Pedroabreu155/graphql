@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/Pedroabreu155/graphql.git",
   "author": "Pedro Abreu <pedroliveirabreu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "apollo-server-express": "^3.4.0",
+    "express": "^4.17.1",
+    "graphql": "^15.6.1"
+  }
 }
