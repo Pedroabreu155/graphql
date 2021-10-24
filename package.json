@@ -1,0 +1,9 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "base concepts of graphql",
+  "main": "index.js",
+  "repository": "https://github.com/Pedroabreu155/graphql.git",
+  "author": "Pedro Abreu <pedroliveirabreu@gmail.com>",
+  "license": "MIT"
+}
